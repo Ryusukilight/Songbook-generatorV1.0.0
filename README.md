@@ -2,6 +2,7 @@
 
 A free, lightweight desktop application to quickly generate beautiful PDF songbooks from Excel data files. Developed by **Electronicsbuilds by ArnelJr**.
 
+![App Screenshot](screenshot.png)
 ---
 
 ## ✨ Features
